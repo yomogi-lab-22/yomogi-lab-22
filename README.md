@@ -1,16 +1,17 @@
-## Hi there 👋
+# Yomogi Lab 🌿
 
-<!--
-**yomogi-lab-22/yomogi-lab-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+つくる、試す、楽しむ。
 
-Here are some ideas to get you started:
+WebとAIと猫と、ちょっと不思議なもの。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Works
+
+🎮 ミニゲーム  
+🎨 Procreate・イラスト  
+🤖 AIを使った制作・実験  
+📷 猫の写真・動画  
+
+## Portfolio
+
+🌿 Yomogi Lab  
+https://yomogi-lab.net/
