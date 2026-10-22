@@ -10,7 +10,7 @@ WebとAIと猫と、ちょっと不思議なもの。
 🎨 Procreate・イラスト  
 🤖 AIを使った制作・実験  
 📷 猫の写真・動画  
-
+📚 [学習ツール・Webアプリ](https://yomogi-lab-22.github.io/itpassport-glossary/)
 ## Portfolio
 
 🌿 Yomogi Lab  
